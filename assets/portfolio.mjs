@@ -15,8 +15,8 @@ export const projects = [
     ], note: 'The interesting part? What happens after generation.'
   },
   {
-    id: 'facility', title: 'Smart Facility Operations', short: 'Facility ops', color: 'mint',
-    category: 'APPLIED AI / INTERNSHIP', role: 'AI & Software Engineering Intern · Infosys Springboard 7.0',
+    id: 'facility', title: 'AI-Powered Facility Monitoring & Operations', short: 'Facility ops', color: 'mint',
+    category: 'APPLIED AI / INTERNSHIP', role: 'AI Internship · Infosys Springboard 7.0',
     summary: 'Turning building telemetry into actionable operations.',
     problem: 'Energy, maintenance, occupancy, security, and cost data need to inform operational decisions, even when an upstream AI provider fails.',
     decision: 'Connect ingestion and evaluation pipelines to persistent state. Make fallback and recovery workflows idempotent so interrupted runs can resume safely.',
